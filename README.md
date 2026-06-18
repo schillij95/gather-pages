@@ -8,6 +8,5 @@ Google Play privacy policy and data deletion URLs can remain public.
 Published site:
 
 ```text
-https://schillij95.github.io/
+https://schillij95.github.io/gather-pages/
 ```
-
